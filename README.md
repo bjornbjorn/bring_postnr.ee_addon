@@ -2,6 +2,8 @@
 
 ExpressonEngine FieldType that integrates with Norway Post / [Bring API](http://www.bring.no/bring-mail/produkter-og-tjenester/api-for-a-soke-i-postnummer) for validating and storing information about Norwegian postal codes (postnummer).
 
+This FieldType was created for the [Norwegian pet sitting service Passop.no](https://passop.no).
+
 ## Install
 
 Copy the *bring_postnr* folder into your third_party folder and install under Addons -> Fieldtypes.
